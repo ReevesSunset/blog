@@ -1,2 +1,2 @@
 # 博客
-1. 待更新
+1. [首页](https://reevessunset.github.io/blog/)
