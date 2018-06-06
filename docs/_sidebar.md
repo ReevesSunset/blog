@@ -1,6 +1,6 @@
 * [首页](/)
 * Js
-    * [javascript](Js/js)
+    * [javascript](js/js)
 * Node
 * Python
 * Linux

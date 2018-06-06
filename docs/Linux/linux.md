@@ -1,4 +1,4 @@
-## linux
+## linux命令
 > 命令
 
 1. locale -a 查看支持的语言
@@ -12,6 +12,7 @@
 9. cat 查看文件内容
 
 > 命令
+
 1. echo 输出
 2. cat 查看文件内容
    cat -s(参数) demo.txt(文件名)
