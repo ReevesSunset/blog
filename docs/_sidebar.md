@@ -3,9 +3,12 @@
     * [基础](js/js)
     * [promise](js/Promise)
 * Node
+    * [基础](Node/node)
 * Python
     * [基础](Python/python)
 * Linux
     * [命令](Linux/linux)
     * [文件操作](Linux/file)
     * [其他](Linux/other)
+* 杂记
+    * [Life](Other/other)
