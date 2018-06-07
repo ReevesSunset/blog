@@ -42,3 +42,7 @@
 > 3.29 
 
 1. [前端异常捕获](http://mp.weixin.qq.com/s/0UvFyVzVFYpYybf6EGBWAw)
+
+> 6.6
+
+1. [Node.js的3m安装](https://cnodejs.org/topic/57f628098489e7ca69f4e839)
