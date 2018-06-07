@@ -1,7 +1,7 @@
 * [首页](/)
 * Js
     * [基础](js/js)
-    * [promise](js/Promise)
+    * [promise](js/promise)
 * Node
     * [基础](Node/node)
 * Python
