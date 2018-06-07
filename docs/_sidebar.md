@@ -1,8 +1,11 @@
 * [首页](/)
 * Js
-    * [js学习](js/js)
+    * [基础](js/js)
+    * [promise](js/Promise)
 * Node
 * Python
+    * [基础](Python/python)
 * Linux
     * [命令](Linux/linux)
     * [文件操作](Linux/file)
+    * [其他](Linux/other)
