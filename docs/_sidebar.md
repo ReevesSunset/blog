@@ -2,6 +2,7 @@
 * Js
     * [基础](js/js)
     * [promise](js/promise)
+    * [js简写](js/简写)
 * Node
     * [基础](Node/node)
 * Python
