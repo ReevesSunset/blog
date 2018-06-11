@@ -21,11 +21,15 @@
   </div>
   <script>
     window.$docsify = {
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
       name: 'REEVES ❤ BLOG',
-      nameLink: '/',
+      nameLink: 'https://reevessunset.github.io/blog/#/',
       homepage: 'index.md',
       repo: 'https://github.com/ReevesSunset/blog',
-      loadSidebar: true, 
+      loadSidebar: true,
+      loadNavbar: true, 
       coverpage: false, // 封面图片 
       subMaxLevel: 3,
       auto2top: true, // 切换页面后是否自动跳转到页面顶部

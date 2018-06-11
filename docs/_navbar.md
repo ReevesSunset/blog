@@ -1,2 +1,1 @@
-- [主页](/)
-- [index](/index/)
+[主页](https://reevessunset.github.io/blog/#/)

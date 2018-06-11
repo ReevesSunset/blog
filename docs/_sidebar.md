@@ -1,15 +1,15 @@
 * [首页](/)
 * Js
-    * [基础](js/js)
-    * [promise](js/promise)
-    * [js简写](js/简写)
+    * [基础](markdown/js/js)
+    * [promise](markdown/js/promise)
+    * [js简写](markdown/js/简写)
 * Node
-    * [基础](Node/node)
+    * [基础](markdown/Node/node)
 * Python
-    * [基础](Python/python)
+    * [基础](markdown/Python/python)
 * Linux
-    * [命令](Linux/linux)
-    * [文件操作](Linux/file)
-    * [其他](Linux/other)
+    * [命令](markdown/Linux/linux)
+    * [文件操作](markdown/Linux/file)
+    * [其他](markdown/Linux/other)
 * 杂记
-    * [Life](Other/other)
+    * [Life](markdown/Other/other)
