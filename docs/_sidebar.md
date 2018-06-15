@@ -8,6 +8,7 @@
     * [Node Web](markdown/Node/lesson1)
 * Python
     * [基础](markdown/Python/python)
+    * [lesson1](markdown/Python/lesson1)
 * Linux
     * [命令](markdown/Linux/linux)
     * [文件操作](markdown/Linux/file)

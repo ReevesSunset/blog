@@ -1,6 +1,6 @@
-## linux命令
+## linux常用命令
 
-> 命令
+> lesson1
 
 1. locale -a 查看支持的语言
 2. . 表示当前目录 .. 表示上一q级目录 
@@ -12,7 +12,7 @@
 8. cp copy复制
 9. cat 查看文件内容
 
-> 命令
+> lesson2
 
 1. echo 输出
 2. cat 查看文件内容
