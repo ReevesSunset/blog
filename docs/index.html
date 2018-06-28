@@ -11,12 +11,24 @@
   <!-- <link rel="stylesheet" href="//unpkg.com/docsify/themes/dark.css"> -->
   <!-- <link rel="stylesheet" href="//unpkg.com/docsify/themes/pure.css"> -->
   <link rel="stylesheet" href="./static/vue.css">
+  <style>
+    body {
+      position: relative;
+    }
+    .playerbox {
+      position: fixed;
+      z-index: 1000000;
+      right: 0;
+      bottom: 0;
+    }
+  </style>
 </head>
 <body>
   <!-- <nav>
     <a href="#/">EN</a>
     <a href="#/zh-cn/">中文</a>
   </nav> -->
+  <iframe class="playerbox" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=27946894&auto=1&height=66"></iframe>
   <div id="app">
   </div>
   <script>
