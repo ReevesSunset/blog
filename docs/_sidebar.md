@@ -1,6 +1,6 @@
-* [首页](/)
+<!-- [//]: [首页](/) -->
+* [流年](markdown/js/index)
 * Js
-    * [基础](markdown/js/js)
     * [promise](markdown/js/promise)
     * [js简写](markdown/js/简写)
 * Node
