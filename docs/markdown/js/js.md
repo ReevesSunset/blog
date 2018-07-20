@@ -1,5 +1,11 @@
 # javascrip
 
+> 7.20 
+
+1. [网易前端规范](https://www.cnblogs.com/renzaijianghu/p/3539994.html)
+2. [前端规范](https://blog.csdn.net/sunshine940326/article/details/72810000)
+3. [前端规范](https://www.w3cschool.cn/webdevelopment/index.html)
+
 > 1/8
 
 1. js简写的学习
