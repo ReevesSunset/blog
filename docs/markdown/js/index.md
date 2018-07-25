@@ -1,5 +1,9 @@
 # javascrip
 
+> 7.25
+
+1. [ts在node中的应用](https://zhuanlan.zhihu.com/p/40500697)
+
 > 7.20 
 
 1. [网易前端规范](https://www.cnblogs.com/renzaijianghu/p/3539994.html)
