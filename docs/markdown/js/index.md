@@ -3,6 +3,7 @@
 > 8.2
 
 1. [Webpack 4 教程：从零配置到生产发布（2018）](http://www.css88.com/archives/9436)
+2. [Nginx](https://www.cnblogs.com/knowledgesea/p/5175711.html)
 
 > 7.31
 
