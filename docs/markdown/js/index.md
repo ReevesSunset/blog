@@ -1,5 +1,9 @@
 # javascrip
 
+> 8.2
+
+1. [Webpack 4 教程：从零配置到生产发布（2018）](http://www.css88.com/archives/9436)
+
 > 7.31
 
 1. [vue源码解读](https://github.com/DMQ/mvvm)
