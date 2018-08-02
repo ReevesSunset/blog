@@ -3,6 +3,7 @@
 * Js
     * [promise](markdown/js/promise)
     * [js简写](markdown/js/简写)
+    * [Nginx](markdown/other/nginx)
 * Node
     * [基础知识](markdown/Node/node)
     * [Node Web](markdown/Node/lesson1)
