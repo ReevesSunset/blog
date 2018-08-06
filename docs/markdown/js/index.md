@@ -1,5 +1,10 @@
 # javascrip
 
+> 8.6
+
+1. [前端异常捕获](https://mp.weixin.qq.com/s/AsCkyWIdHlKb9VItkxPSLw)
+2. [前端面试总结——http、html和浏览器篇](https://mp.weixin.qq.com/s/KTW-BpxkBFUMdPVhqHvalA)
+
 > 8.2
 
 1. [Webpack 4 教程：从零配置到生产发布（2018）](http://www.css88.com/archives/9436)
