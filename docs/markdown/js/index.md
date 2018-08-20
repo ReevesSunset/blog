@@ -1,5 +1,9 @@
 # javascrip
 
+> 8.20
+
+1.[Typescript大型项目实践](https://mp.weixin.qq.com/s/T1TGXuf8hgmqglZC9X-1zQ)
+
 > 8.13
 
 1. [去哪儿网前后端分离实践](https://mp.weixin.qq.com/s/fa2Muq0KKqPUTpS0u-W5mQ)
