@@ -4,6 +4,7 @@
     * [promise](markdown/js/promise)
     * [js简写](markdown/js/简写)
     * [Nginx](markdown/other/nginx)
+    * [webpack](markdown/js/webpack)
 * Node
     * [基础知识](markdown/Node/node)
     * [Node Web](markdown/Node/lesson1)
