@@ -1,5 +1,11 @@
 # javascrip
 
+> 9.27
+
+1.[从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://segmentfault.com/a/1190000013662126)
+2.[如何优雅的链式取值](https://mp.weixin.qq.com/s/cigjK2kLJzgRdRy1VwGhfQ)
+3.[前端面试题](https://github.com/forthealllight/blog/issues/15)
+
 > 8.20
 
 1.[Typescript大型项目实践](https://mp.weixin.qq.com/s/T1TGXuf8hgmqglZC9X-1zQ)

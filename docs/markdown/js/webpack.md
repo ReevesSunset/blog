@@ -6,6 +6,7 @@
 ### 文件分割
 
 1. spliting
+2. CommonsChunkPlugin
 
 ### 资源处理
 
@@ -31,16 +32,17 @@
 ### webpack错误的处理
 
 1. 错误的追踪source map  报错同chrome,报错文件名和行数
-2. 
+2. 配置
 
 ``` 
   devtool: 'inline-source-map'  // 仅用于解释说明,不应用与生产环境
 ```
 
-### 常用的 webpack 插件
+### 常用的 webpack 插件 plugins
 
 1. HtmlWebpackPlugin 常用的用来在首页引入js的插件
 2. clean-webpack-plugin 每次构建前清理dist文件夹
+
 ```
     plugins: [
       new CleanWebpackPlugin(['dist']),
