@@ -1,5 +1,10 @@
 # javascrip
 
+> 10.8
+
+1. [前端防抖和节流](https://github.com/BooheeFE/weekly/issues/13)
+2. [vue技术内幕](http://hcysun.me/vue-design/)
+
 > 9.27
 
 1.[从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://segmentfault.com/a/1190000013662126)
