@@ -5,6 +5,7 @@
     * [js简写](markdown/js/简写)
     * [Nginx](markdown/other/nginx)
     * [webpack](markdown/js/webpack)
+    * [SSR](markdown/js/ssr)
 * Node
     * [基础知识](markdown/Node/node)
     * [Node Web](markdown/Node/lesson1)
