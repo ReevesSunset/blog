@@ -1,5 +1,4 @@
 <!-- [//]: [首页](/) -->
-* [流年](markdown/js/index)
 * Js
     * [promise](markdown/js/promise)
     * [js简写](markdown/js/简写)
@@ -16,5 +15,7 @@
     * [命令](markdown/Linux/linux)
     * [文件操作](markdown/Linux/file)
     * [其他](markdown/Linux/other)
+* 日常
+    * [记录](markdown/js/index)
 * 杂记
     * [Life](markdown/Other/other)
