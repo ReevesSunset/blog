@@ -20,5 +20,6 @@
     * [其他](markdown/Linux/other)
 * 日常
     * [记录](markdown/js/index)
+    * [读书](markdown/Book/index)
 * 杂记
     * [Life](markdown/Other/other)
