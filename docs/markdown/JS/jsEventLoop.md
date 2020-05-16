@@ -103,7 +103,3 @@ console.log(9)
 由于在执行microtask任务的时候，只有当microtask队列为空的时候，它才会进入下一个事件循环，因此，如果它源源不断地产生新的microtask任务，就会导致主线程一直在执行microtask任务，而没有办法执行macrotask任务，这样我们就无法进行UI渲染/IO操作/ajax请求了，因此，我们应该避免这种情况发生。在nodejs里的process.nexttick里，就可以设置最大的调用次数，以此来防止阻塞主线程。
 以此，我们来引入一个新的问题，定时器的问题。定时器是否是真实可靠的呢？比如我执行一个命令:setTimeout(task, 100),他是否就能准确的在100毫秒后执行呢？其实根据以上的讨论，我们就可以得知，这是不可能的。
  原因我想大家应该也都知道了，因为你执行setTimeout(task,100)后，其实只是确保这个任务，会在100毫秒后进入macrotask队列，但并不意味着他能立刻运行，可能当前主线程正在进行一个耗时的操作，也可能目前microtask队列有很多个任务，所以这也可能是大家一直诟病setTimeout的原因吧哈哈哈哈
-以上，只是我个人对事件循环的一些看法， 以及借鉴了其他优秀文章
-参考:
- http://www.zcfy.cc/article/node-js-at-scale-understanding-the-node-js-event-loop-risingstack-1652.html
- https://github.com/ccforward/cc/issues/47
