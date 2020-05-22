@@ -1,4 +1,6 @@
 <!-- [//]: [首页](/) -->
+* 总结
+    * [前端总结](markdown/JS/summary)
 * Js
     * [promise](markdown/JS/promise)
     * [js简写](markdown/JS/简写)
