@@ -7,6 +7,7 @@
     * [SSR](markdown/JS/ssr)
     * [js事件循环](markdown/JS/jsEventLoop)
     * [js原生总结](markdown/JS/jsbase)
+    * [js_utils](markdown/JS/jsutils)
 * 框架
     * [VUE](markdown/Frame/vue)
 * Node

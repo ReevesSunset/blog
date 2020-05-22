@@ -1,10 +1,7 @@
-
-### js 常用方法
-
-#### 格式化金额
+### 格式化金额
 
 ```javascript
-1. 
+//1. 
 function toThousands(num) {
     var result = [ ], counter = 0;
     num = (num || 0).toString().split('');
@@ -76,4 +73,10 @@ function toThousands(num) {
 function toThousands(num) {
     return (num || 0).toString().replace(/(\d)(?=(?:\d{3})+$)/g, '$1,');
 }
+
+//7
+(123456789).toLocaleString('en-US')  // 1,234,567,890
+
+//8
+new Intl.NumberFormat().format(1234567890) // 1,234,567,890
 ```
