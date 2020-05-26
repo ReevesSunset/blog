@@ -80,3 +80,9 @@ function toThousands(num) {
 //8
 new Intl.NumberFormat().format(1234567890) // 1,234,567,890
 ```
+
+### 时间的处理
+
+### lazyman实现
+
+### 
