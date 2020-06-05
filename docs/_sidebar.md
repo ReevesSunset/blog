@@ -3,7 +3,7 @@
     * [前端总结](markdown/JS/summary)
 * Js
     * [promise](markdown/JS/promise)
-    * [js简写](markdown/JS/简写)
+    * [js简写](markdown/JS/jianxie)
     * [Nginx](markdown/other/nginx)
     * [webpack](markdown/JS/webpack)
     * [SSR](markdown/JS/ssr)
