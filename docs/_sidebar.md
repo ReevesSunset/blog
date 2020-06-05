@@ -16,9 +16,6 @@
     * [基础知识](markdown/Node/node)
     * [express基础](markdown/Node/express)
     * [egg](markdown/Node/egg)
-* Python
-    * [基础](markdown/Python/python)
-    * [lesson1](markdown/Python/lesson1)
 * Linux
     * [命令](markdown/Linux/linux)
     * [文件操作](markdown/Linux/file)
