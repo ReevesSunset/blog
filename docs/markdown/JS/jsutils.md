@@ -85,4 +85,56 @@ new Intl.NumberFormat().format(1234567890) // 1,234,567,890
 
 ### lazyman实现
 
-### 
+### 防抖和节流
+
+> 节流
+```javascript
+const throttle = function(fn, interval) {
+  let last = 0;
+  return function (...args) {
+    let context = this;
+    let now = +new Date();
+    // 还没到时间
+    if(now - last < interval) return;
+    last = now;
+    fn.apply(this, args)
+  }
+}
+```
+
+> 防抖
+```javascript
+function debounce(fn, delay) {
+  let timer = null;
+  return function (...args) {
+    let context = this;
+    if(timer) clearTimeout(timer);
+    timer = setTimeout(function() {
+      fn.apply(context, args);
+    }, delay);
+  }
+}
+
+```
+
+> 结合
+```javascript
+function throttle(fn, delay) {
+  let last = 0, timer = null;
+  return function (...args) {
+    let context = this;
+    let now = new Date();
+    if(now - last < delay){
+      clearTimeout(timer);
+      setTimeout(function() {
+        last = now;
+        fn.apply(context, args);
+      }, delay);
+    } else {
+      // 这个时候表示时间到了，必须给响应
+      last = now;
+      fn.apply(context, args);
+    }
+  }
+}
+```
